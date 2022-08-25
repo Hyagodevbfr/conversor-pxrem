@@ -1,6 +1,6 @@
 # Conversor Pixel para Rem
  Site para fazer conversões de pixel para rem.
- ![image](https://user-images.githubusercontent.com/110845341/186677229-38d38829-227a-4647-8657-76c5192eaaee.png)
+ ![image](https://user-images.githubusercontent.com/110845341/186703047-46a17e8d-43b5-4ca3-a05d-e45c8a59c109.png)
 ## Desafio
  Meu primeiro projeto idealizado por conta própria. Esse projeto foi idealizado com a intensão de colocar em prática alguns dos meus conhecimentos adquiridos no cursos de HTML5, CSS3 e JavaScript do Curso em vídeo. Um site responsívo que se adaptara desde dispositivos menores à telas Ultra-wide.
 ###
